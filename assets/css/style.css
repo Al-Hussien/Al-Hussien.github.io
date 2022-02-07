@@ -733,9 +733,9 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 #site-header.style-4 .nav-top-cart-wrapper { position: relative; display: inline-block; transform: none; padding-left: 12px; }
 
 /* Header Style 5 */
-.header-style-5 #site-header { background-color:rgba(0, 0, 0, 0.53) !important;}
+.header-style-5 #site-header { background-color:rgba(51, 122, 183, 0.53) !important;}
 .header-style-5 #site-header-wrap { position: absolute; left: 0; top: 0; width: 100%; z-index: 999; }
-#site-header.style-5:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background-color: #000; filter: alpha(opacity=20); opacity: 0.2; z-index: -1; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
+#site-header.style-5:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background-color: #337ab7; filter: alpha(opacity=20); opacity: 0.2; z-index: -1; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
 #site-header.style-5 .mobile-button:before, #site-header.style-5 .mobile-button:after, #site-header.style-5 .mobile-button span { background-color: #fff; }
 
 /* Navigation */
