@@ -925,8 +925,8 @@
             if ( $().gmap3 ) {
                 var contentString = '<div id="content">'+
                     '<div>'+
-                    '<h5 style="margin: 5px 0 0">CONSTRUCTION</h5>'+
-                    '<p style="margin: 0 0 5px">Ultimate Construction Template</p>'+
+                    '<h5 style="margin: 5px 0 0">Stream Center</h5>'+
+                    '<p style="margin: 0 0 5px">5 Street, Canada Dry, Shuwaikh Industrial, Kuwait</p>'+
                     '</div>';
                 $('#gmap')
                 .gmap3({
